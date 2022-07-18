@@ -89,7 +89,7 @@ header {
 }
 
 .navlistlinks p:hover {
-    transform: ;
+    transform:none ;
 }
 
 #nl-signup {
